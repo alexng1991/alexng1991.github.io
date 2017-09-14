@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CS371p Fall 2017: Alexander Ng"
 ---
 
