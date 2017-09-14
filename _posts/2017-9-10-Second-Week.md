@@ -23,5 +23,5 @@ I love the way the professor teaches. The interaction makes it very engaging, an
 
 **What's my pick-of-the-week or tip-of-the-week?**
 Define your goal and work backwards from there. - My Ethical Hacking Professor's
-Mentor
+Mentor from long ago
 
