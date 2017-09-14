@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: CS371p: <Alexander Ng>
 ---
