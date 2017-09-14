@@ -1,5 +1,5 @@
 ---
-title: CS371p Fall 2017: <Alexander Ng>
+title: CS371p Fall 2017&#58; <Alexander Ng>
 layout: post
 ---
 
