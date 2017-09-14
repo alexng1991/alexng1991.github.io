@@ -1,7 +1,8 @@
 ﻿---
 layout: post
-title: CS371p Fall 2017: <Alexander Ng>
+title: CS371p: <Alexander Ng>
 ---
+
 
 
 **What are your expectations of the class?**
