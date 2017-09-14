@@ -1,6 +1,5 @@
-# CS371p Fall 2017: <Alexander Ng>
-
 CS371p Fall 2017: <Alexander Ng>
+
 **What are your expectations of the class?**
 I expect to come out of this class a better programmer, through the use of tools for development and a deeper understanding on the rationales of code design. 
 
